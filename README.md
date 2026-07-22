@@ -31,3 +31,12 @@ Algorithms, assignments, and structural coding practices implemented during my C
 | :--- | :--- | :--- |
 | **Library Management System** | `Library-Management-WinForms` | Windows Forms UI Controls, CRUD Operations, Entity State Management |
 | **Custom Notepad Application** | `Custom-Notepad-WinForms` | File I/O (`StreamReader`/`StreamWriter`), Text Processing, UI Event Handling |
+
+### 📱 Mobile Development & Flutter Practices (`Mobile-Development-Practices/`)
+
+| Project Name | Folder Name | Key Technical Concepts Covered |
+| :--- | :--- | :--- |
+| **Custom Dice Roller** | `Dice-Roller-Flutter` | Custom Widgets, Randomization, Row/Column Layouts, Constructors |
+| **User Profile & State Management** | `User-Profile-State-App` | Multi-screen Navigation, Form Handling, State Lifting, Dynamic UI Updates |
+| **TV Series Tracker** | `TV-Series-Tracker-Flutter` | Stateful Widgets, Data Filtering, Category-based Analytics, Chart Rendering |
+| **Smart Recipe Recommendation** | `Recipe-Recommendation-Flutter` | Conditional Decision Logic, Dynamic Filtering, UI Theming, Ingredient Matching |
