@@ -46,3 +46,9 @@ Algorithms, assignments, and structural coding practices implemented during my C
 | Project Name | Folder Name | Key Technical Concepts Covered |
 | :--- | :--- | :--- |
 | **Computer Graphics & 3D Math Engine** | `Computer-Graphics-MATLAB/` | MATLAB, 2D/3D Transformation Matrices, Rotation Algorithms, Scaling & Shearing, Coordinate Mapping, Line Drawing Algorithms |
+
+### 🖼️ Digital Image Processing Practices (`Image-Processing-MATLAB/`)
+
+| Project Name | Folder Name | Key Technical Concepts Covered |
+| :--- | :--- | :--- |
+| **Digital Image Processing Algorithms** | `Image-Processing-MATLAB/` | MATLAB, Spatial Filtering, Edge Detection (Sobel/Canny), Histogram Equalization, Noise Reduction, Image Thresholding |
