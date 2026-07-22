@@ -40,3 +40,9 @@ Algorithms, assignments, and structural coding practices implemented during my C
 | **User Profile & State Management** | `User-Profile-State-App` | Multi-screen Navigation, Form Handling, State Lifting, Dynamic UI Updates |
 | **TV Series Tracker** | `TV-Series-Tracker-Flutter` | Stateful Widgets, Data Filtering, Category-based Analytics, Chart Rendering |
 | **Smart Recipe Recommendation** | `Recipe-Recommendation-Flutter` | Conditional Decision Logic, Dynamic Filtering, UI Theming, Ingredient Matching |
+
+### 📐 Computer Graphics & Linear Algebra Operations (`Computer-Graphics-MATLAB/`)
+
+| Project Name | Folder Name | Key Technical Concepts Covered |
+| :--- | :--- | :--- |
+| **Computer Graphics & 3D Math Engine** | `Computer-Graphics-MATLAB/` | MATLAB, 2D/3D Transformation Matrices, Rotation Algorithms, Scaling & Shearing, Coordinate Mapping, Line Drawing Algorithms |
